@@ -7,7 +7,7 @@ It features your profile picture, name, bio, and links to your social profiles (
 
 ## 📸 Preview
 
-
+https://social-links-nu-henna.vercel.app/
 
 ---
 
